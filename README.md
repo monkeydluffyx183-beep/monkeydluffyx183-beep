@@ -8,11 +8,10 @@
 
 ![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
-Ratheesh is an Artificial Intelligence and Data Science student with proven capabilities in building end-to-end AI applications, real-time engines, and automated data pipelines. With a strong foundation in Data Structures & Algorithms, he has solved over 1500 problems, ranking in the top 5.16% globally on LeetCode. He is experienced in implementing modular Python/FastAPI backend architectures and predictive machine learning workflows.
+Ratheesh is an Artificial Intelligence and Data Science student with proven capabilities in building end-to-end AI applications, real-time engines, and automated data pipelines. With a strong foundation in Data Structures & Algorithms, he has solved over 500 problems. He is experienced in implementing modular Python/FastAPI backend architectures and predictive machine learning workflows.
 
 - 🏢 Working at **Sri Shakthi Institute of Engineering and Technology** in **Coimbatore, Tamil Nadu, India**
 - 💬 Ask me about **Artificial Intelligence applications, real-time data processing, and machine learning workflows.**
-- ⚡ LeetCode Top 5.16% globally with a peak rating of 1841.
 
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
 
